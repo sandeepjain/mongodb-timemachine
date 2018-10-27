@@ -2,7 +2,7 @@
   "name": "mongodb-timemachine",
   "description": "Timemachine backup of mongodb database and restore",
   "version": "0.0.1",
-  "author": "Sandeep Jain @sandeepjain",
+  "author": "Sandeep Jain @sandeepjain88",
   "bin": {
     "mongodb-timemachine": "./bin/run"
   },
