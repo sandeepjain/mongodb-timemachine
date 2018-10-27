@@ -1,0 +1,8 @@
+{
+  "extends": "oclif",
+  "rules": {
+    "indent": [
+      "error",
+      4
+  ]
+}
