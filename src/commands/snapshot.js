@@ -38,6 +38,7 @@ class SnapshotCommand extends Command {
 
         // Create timemachine directory
         cli.action.stop('Completed');
+        this.log(`Snapshot Id: ${id}`);
         notifier.notify({
             title: 'MongoDB Timemachine',
             message: 'Snapshot taken successfully.',
